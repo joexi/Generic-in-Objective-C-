@@ -15,7 +15,7 @@ And now I fix those flaws and make a simple way to using Generic in Objective-C.
   
 ### Provides
 
-  * An strong type Array instead of NSMutableArry
+  * An strong type Array instead of NSMutableArray
   
 ### How to use
   * Import the Arraylist Class
